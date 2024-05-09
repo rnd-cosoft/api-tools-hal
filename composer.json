@@ -1,5 +1,5 @@
 {
-    "name": "laminas-api-tools/api-tools-hal",
+    "name": "rnd-cosoft/api-tools-hal",
     "description": "Laminas Module providing Hypermedia Application Language assets and rendering",
     "license": "BSD-3-Clause",
     "keywords": [
