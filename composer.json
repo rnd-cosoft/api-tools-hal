@@ -37,7 +37,7 @@
     "require": {
         "php": "~8.1.0 || ~8.2.0 || ~8.3.0",
         "ext-json": "*",
-        "laminas-api-tools/api-tools-api-problem": "^1.6.0",
+        "rnd-cosoft/api-tools-api-problem": "^1.6.0",
         "laminas/laminas-eventmanager": "^3.4.0",
         "laminas/laminas-filter": "^2.13.0",
         "laminas/laminas-http": "^2.15.1",
@@ -82,6 +82,7 @@
         "static-analysis": "psalm --shepherd --stats --show-info=true"
     },
     "replace": {
-        "zfcampus/zf-hal": "^1.6.0"
+        "zfcampus/zf-hal": "^1.6.0",
+        "laminas-api-tools/api-tools-hal": "*"
     }
 }
